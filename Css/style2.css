@@ -1,0 +1,69 @@
+body{
+    background:url(../Img/signin.jfif);
+    background-repeat:no-reapet;
+    background-size: cover;
+}
+
+.container{
+    width: 550px;
+    margin: 10% auto;
+    padding: 25px;
+    background-color:#fffff92e;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    
+}
+
+.sign-up-section  img{
+    display: block;
+    padding: 25px;
+    margin: 0px auto;
+    height: 150px;
+    width: 150px;
+
+        
+}
+
+.form-control{
+    width: 70%;
+    padding: 4px;
+    margin: 7px auto;
+    display: block;
+    
+}
+
+
+
+.btn{
+    display: block;
+    margin: 20px auto;
+    border: none;
+    padding: 3px 10px;
+    background-color: black;
+    color: white;
+    box-shadow: 2px 2px white;
+    
+}
+
+
+.birth{
+    display: block;
+    margin: 0px 75px;
+    color: white;
+    float: left;
+}
+
+.date{
+    display: block;
+    float: left;
+    margin: 1px 1px 20px 1px;
+}
+
+.login{
+    display: block;
+    color: white;
+    float: left;
+}
